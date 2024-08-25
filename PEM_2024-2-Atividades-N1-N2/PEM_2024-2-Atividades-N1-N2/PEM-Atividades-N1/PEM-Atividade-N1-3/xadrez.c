@@ -12,14 +12,14 @@
 int main()
 {
     /* Definindo os vetores de strings */
-    char l1[8][4] = {"BT1", "BC1", "BB1", "BR",  "BD ", "BB2", "BC2", "BT2"};
-    char l2[8][4] = {"BP1", "BP2", "BP3", "BP4", "BP5", "BP6", "BP7", "BP8"};
+    char l1[8][4] = {"PT1", "PC2", "PB3", "PR",  "PD",  "PB6", "PC7", "PT8"};
+    char l2[8][4] = {"PP1", "PP2", "PP3", "PP4", "PP5", "PP6", "PP7", "PP8"};
     char l3[8][4] = {" X ", " X ", " X ", " X ", " X ", " X ", " X ", " X "};
     char l4[8][4] = {" X ", " X ", " X ", " X ", " X ", " X ", " X ", " X "};
     char l5[8][4] = {" X ", " X ", " X ", " X ", " X ", " X ", " X ", " X "};
     char l6[8][4] = {" X ", " X ", " X ", " X ", " X ", " X ", " X ", " X "};
-    char l7[8][4] = {"PP1", "PP2", "PP3", "PP4", "PP5", "PP6", "PP7", "PP8"};
-    char l8[8][4] = {"PT1", "PC1", "PB1", "PR",  "PD",  "PB2", "PC2", "PT2"};
+    char l7[8][4] = {"BP1", "BP2", "BP3", "BP4", "BP5", "BP6", "BP7", "BP8"};
+    char l8[8][4] = {"BT1", "BC2", "BB3", "BD",  "BR ", "BB6", "BC7", "BT8"};
 
     /* Exibindo o cabeçalho do tabuleiro */
     printf("    a    b   c   d   e   f   g   h\n");  // Cabeçalho com letras para colunas
