@@ -12,7 +12,7 @@
 int main()
 {
     /* Definindo os vetores de strings */
-    char l1[8][4] = {"PT1", "PC2", "PB3", "PR",  "PD",  "PB6", "PC7", "PT8"};
+    char l1[8][4] = {"PT1", "PC2", "PB3", "PD",  "PR",  "PB6", "PC7", "PT8"};
     char l2[8][4] = {"PP1", "PP2", "PP3", "PP4", "PP5", "PP6", "PP7", "PP8"};
     char l3[8][4] = {" X ", " X ", " X ", " X ", " X ", " X ", " X ", " X "};
     char l4[8][4] = {" X ", " X ", " X ", " X ", " X ", " X ", " X ", " X "};
