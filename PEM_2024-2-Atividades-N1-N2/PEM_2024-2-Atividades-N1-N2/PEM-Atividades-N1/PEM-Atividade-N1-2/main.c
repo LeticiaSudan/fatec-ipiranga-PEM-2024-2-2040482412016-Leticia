@@ -1,3 +1,12 @@
+/*--------------------------------------------------------*
+* Disciplina: Programaçao Estruturada e Modular *
+*          Prof. Carlos Veríssimo                                    *
+*--------------------------------------------------------*
+* Objetivo do Programa: Calcular Notas      *
+* Data - 17/08/2024                                               * 
+* Autor: Letícia Sudan Gauy*
+*--------------------------------------------------------*/
+
 #include <stdio.h>
 
 #define MAX_NOTAS 100 
