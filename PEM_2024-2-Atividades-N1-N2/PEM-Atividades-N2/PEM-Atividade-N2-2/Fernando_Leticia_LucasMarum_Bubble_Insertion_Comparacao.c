@@ -2,7 +2,7 @@
 * Disciplina: Programação Estruturada e Modular                     *
 *          Prof. Carlos Veríssimo                                   *
 *-------------------------------------------------------------------*
-* Objetivo do Programa: BUBBLE SORT e INSERÇÃO                      *
+* Objetivo do Programa: COMPARAÇÃO DE BUBBLE SORT e INSERÇÃO        *
 *                                                                   *
 * Data: 10/10/2024                                                  * 
 * Autor: Letícia Sudan Gauy , Fernando Palmieri e Lucas Zanin Marum *
