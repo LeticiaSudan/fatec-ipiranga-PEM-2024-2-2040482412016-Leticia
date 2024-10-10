@@ -1,12 +1,12 @@
-/*-------------------------------------------------------------*
-* Disciplina: Programação Estruturada e Modular                *
-*          Prof. Carlos Veríssimo                              *
-*--------------------------------------------------------------*
-* Objetivo do Programa: BUBBLE SORT e INSERÇÃO                 *
-*                                                              *
-* Data: 27/09/2024                                             * 
-* Autor: Letícia Sudan Gauy , Fernando Palmieri e Lucas Zanin Marum                *
-*--------------------------------------------------------------*/
+/*------------------------------------------------------------------*
+* Disciplina: Programação Estruturada e Modular                     *
+*          Prof. Carlos Veríssimo                                   *
+*-------------------------------------------------------------------*
+* Objetivo do Programa: BUBBLE SORT e INSERÇÃO                      *
+*                                                                   *
+* Data: 10/10/2024                                                  * 
+* Autor: Letícia Sudan Gauy , Fernando Palmieri e Lucas Zanin Marum *
+*-------------------------------------------------------------------*/
 
 #include <stdio.h>
 #include <stdlib.h>
