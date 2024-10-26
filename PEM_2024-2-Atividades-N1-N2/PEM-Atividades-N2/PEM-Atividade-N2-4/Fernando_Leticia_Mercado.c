@@ -1,3 +1,13 @@
+/*-------------------------------------------------------------*
+* Disciplina: Programação Estruturada e Modular                *
+*          Prof. Carlos Veríssimo                              *
+*--------------------------------------------------------------*
+* Objetivo do Programa: MANIPULANDO STRUCT                     *
+*                                                              *
+* Data: 25/10/2024                                             * 
+* Autor: Letícia Sudan Gauy e Fernando Palmieri                *
+*--------------------------------------------------------------*/
+
 #include <stdio.h>
 #include <string.h>
 
